@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "655632230231",
+    "project_id": "dawaam-foods",
+    "storage_bucket": "dawaam-foods.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655632230231:android:d47186c4d29e8124ec8012",
+        "android_client_info": {
+          "package_name": "com.example.dawaam_foods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655632230231-qo49vv9h7m4hcg8lhm77kl8odo7ndaqj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dawaam_foods",
+            "certificate_hash": "1b509a3ebd5d5d52c9c0722c8e9712d3848bcdf6"
+          }
+        },
+        {
+          "client_id": "655632230231-0q2n3emrtn1t54p8fpoiv1jsjjshq5pi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRTY6fUz0zKNTpT2pPHQdkOy5AabZVJUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655632230231-0q2n3emrtn1t54p8fpoiv1jsjjshq5pi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

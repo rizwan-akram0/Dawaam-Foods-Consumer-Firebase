@@ -1,0 +1,50 @@
+{
+    "categories":[
+        {
+            "name": "Spices",
+            "subcategory": [
+                "Dawaam",
+                "National",
+                "Shan"
+            ]
+        },
+        {
+            "name": "Grocery",
+            "subcategory": [
+                "Oil & Ghee",
+                "Tea & Cofee",
+                "Packaged Food"
+            ]
+        },
+        {
+            "name": "Beverages",
+            "subcategory": [
+                "Drinking Water",
+                "Cold Drink",
+                "Fresh Juice"
+            ]
+        },
+        {
+            "name": "Dry Fruit",
+            "subcategory": [
+                "Dry Fruits"
+            ]
+        },
+        {
+            "name": "Snacks",
+            "subcategory": [
+                "Ice Cream",
+                "Chocolate",
+                "Biscuits",
+                "Chips & Nimko"
+            ]
+        },
+        {
+            "name": "Dairy & Egg",
+            "subcategory": [
+                "Dairy & Egg"
+            ]
+        }
+        
+    ]
+}
